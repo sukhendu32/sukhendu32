@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sukhendu Paul</h1>
+
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h3 align="center">Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendu32&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendu32" /> </p>
