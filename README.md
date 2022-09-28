@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendu32&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendu32" /> </p>
 
+- 💻 Passionate about Tech.
+
+- 🎯 Focus on improving my code and building a robust application.
+
 - 🌱 I’m currently learning **JAVA | DSA | JDBC | MYSQL**
 
 - 👨‍💻 All of my projects are available at [sukhendu32.github.io](sukhendu32.github.io)
@@ -13,6 +17,8 @@
 - 💬 Ask me about **JAVA | DSA | MYSQL | JAVASCRIPT**
 
 - 📫 How to reach me **sukhendupaul36@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
