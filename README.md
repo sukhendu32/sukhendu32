@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sukhendu Paul</h1>
+<h3 align="left">I am a Versatilist and JAVA Backend Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h3 align="center">Java Backend Developer</h3>
