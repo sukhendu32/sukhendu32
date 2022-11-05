@@ -18,6 +18,10 @@
 
 - 📫 How to reach me **sukhendupaul36@gmail.com**
 
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QrN6UI-cf-KbXSw21UsBZzufkAkdbTyk/view?usp=share_link)
+
+- <img align="center" src="https://img.icons8.com/fluency/48/null/portfolio.png" alt="sukhendu_paul" height="20" width="20" /> This is my <a href="https://sukhendu32.github.io/" target="blank">Portfolio </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
