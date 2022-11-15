@@ -34,8 +34,7 @@
 <img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:sukhendupaul36@gmail.com" target="_blank" >
 <img src="https://img.shields.io/badge/Sukhendu%20Paull-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://drive.google.com/uc?id=1-XCEzhMjrPIuctcDcL6dQ7AkNocQTmQD&export=download" target="_blank" >
-<img src="https://drive.google.com/file/d/1QrN6UI-cf-KbXSw21UsBZzufkAkdbTyk/view?usp=share_link" alt="Resume"/></a>
+
 
 </p>
 
