@@ -25,10 +25,22 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Reach out to me here:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sukhendu-paul-65026011a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sukhendu-paul-65026011a/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/sukhendu-paul-65026011a/" target="_blank" >
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://sukhendu32.github.io/" target="_blank" >
+<img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:sukhendupaul36@gmail.com" target="_blank" >
+<img src="https://img.shields.io/badge/Sukhendu%20Paull-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://drive.google.com/uc?id=1-XCEzhMjrPIuctcDcL6dQ7AkNocQTmQD&export=download" target="_blank" >
+<img src="https://drive.google.com/file/d/1QrN6UI-cf-KbXSw21UsBZzufkAkdbTyk/view?usp=share_link" alt="Resume"/></a>
+
 </p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width:5%"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width:5%""/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" style="width:5%"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width:5%"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width:5%"/> </a>
