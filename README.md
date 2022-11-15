@@ -40,11 +40,7 @@
  
 
 
-<div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendu32&show_icons=true&locale=en" alt="sukhendu32" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendu32&" alt="sukhendu32" /></p>
-</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhendu32&show_icons=true&locale=en&layout=compact" alt="sukhendu32" /></p>
